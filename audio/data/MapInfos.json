@@ -1,6 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"out_house","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
-{"id":2,"expanded":false,"name":"in_house","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"forest_path","order":3,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725}
+{"id":1,"expanded":true,"name":"out_house","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"in_house","order":2,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
+{"id":3,"expanded":true,"name":"forest_path","order":3,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":4,"expanded":true,"name":"placeholder_1","order":4,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"placeholder_2","order":5,"parentId":3,"scrollX":832,"scrollY":640}
 ]
