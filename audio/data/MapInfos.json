@@ -1,9 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"out_house","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
-{"id":2,"expanded":false,"name":"in_house","order":2,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
-{"id":3,"expanded":true,"name":"forest_path","order":3,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":2,"expanded":false,"name":"in_house","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"forest_path","order":3,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":true,"name":"placeholder_1","order":4,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
-{"id":5,"expanded":false,"name":"bpass","order":5,"parentId":3,"scrollX":720.8888888888889,"scrollY":797.3333333333334},
-{"id":6,"expanded":false,"name":"Thumbs","order":6,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
+{"id":5,"expanded":true,"name":"bpass","order":5,"parentId":3,"scrollX":816,"scrollY":800},
+{"id":6,"expanded":false,"name":"Thumbs","order":7,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":7,"expanded":false,"name":"bpass_Dungeon","order":6,"parentId":5,"scrollX":728,"scrollY":409.77777777777777}
 ]
