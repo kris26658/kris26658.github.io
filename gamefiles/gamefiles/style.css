@@ -1,0 +1,14 @@
+h1 {
+    color: #9dd9ed;
+    background-color: white
+}
+
+#bigBox {
+    display: flex;
+    font-family: "Arial";
+    border: 1px solid black;
+}
+
+.smallBox {
+    background-color: rgb(181, 192, 203);
+}

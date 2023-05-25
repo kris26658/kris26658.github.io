@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Scarf Guy","characterIndex":0,"characterName":"Scarf Guy","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Scarf Guy","traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":1,"value":1},{"code":43,"dataId":2,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Scarf Guy","nickname":"","note":"","profile":""}
+]
